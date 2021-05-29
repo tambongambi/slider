@@ -1,0 +1,15 @@
+body{
+  background: rgb(255, 255, 255);
+}
+ 
+.slick-arrow {
+    background: rgb(156, 85, 4);
+    color: rgb(149, 85, 85);
+    border-radius: 100px;
+    height: 35px;
+    width: 35px;
+  }
+  .slick-arrow:hover, 
+  .slick-arrow:active {
+    background-color: rgb(92, 92, 92);
+  };
